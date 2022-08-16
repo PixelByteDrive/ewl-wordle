@@ -67,6 +67,9 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           check out the code here
         </a>{' '}
       </p>
+      <p className="mt-6 text-sm text-gray-1000 dark:text-gray0">
+        Take a look at a <a href="">list of 5-letter Spanish words</a> to help you. Only A - C words are available at this time.
+      </p>
     </BaseModal>
   )
 }
