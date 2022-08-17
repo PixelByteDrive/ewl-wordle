@@ -1,6 +1,6 @@
 // Words are gradually being added!
 
-export const WORDS = [
+export const VALID_GUESSES = [
   "abren",
   "acaso",
   "acata",
