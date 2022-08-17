@@ -68,7 +68,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         </a>{' '}
       </p>
       <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
-        Take a look at a <a className="font-bold underline" href="https://www.spanishdict.com/guide/five-letter-spanish-words">list of 5-letter Spanish words</a> to help you. Only A - C words are available at this time.
+        Take a look at a <a className="font-bold underline" href="https://www.spanishdict.com/guide/five-letter-spanish-words">list of 5-letter Spanish words</a> to help you. Only A - H words are available at this time.
       </p>
     </BaseModal>
   )
