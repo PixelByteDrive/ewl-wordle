@@ -1,6 +1,6 @@
 export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
 
-export const WIN_MESSAGES = ['¡Gran trabajo!', 'Impresionante.', 'Bien hecho.']
+export const WIN_MESSAGES = ['<a href="https://translate.google.com/?sl=es&tl=en&text=%C2%A1Gran%20trabajo!&op=translate">¡Gran trabajo!</a>', '<a href="https://translate.google.com/?sl=es&tl=en&text=Impresionante.&op=translate">Impresionante.</a>', '<a href="https://translate.google.com/?sl=es&tl=en&text=Bien%20hecho.%0Ato%20clipboard%27%0Aexport&op=translate">Bien hecho.</a>']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
 export const WORD_NOT_FOUND_MESSAGE = 'Word not found (likely not added yet)'
