@@ -384,5 +384,5 @@ export const VALID_GUESSES = [
   "luego",
   "lugar",
   "lunar",
-  "luzca",
+  "luzca"
 ];
